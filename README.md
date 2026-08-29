@@ -7,6 +7,7 @@ The working code from the [@ByteAnimates](https://www.facebook.com/ByteAnimates)
 ```bash
 python3 bubble_sort.py
 python3 main.py
+python3 test_bubble_sort.py
 ```
 
 No dependencies. Python 3.9+.
@@ -34,6 +35,7 @@ def bubble_sort(a):
 | --- | --- |
 | `bubble_sort.py` | the reel snippet, generated from the episode |
 | `main.py` | run this — the demo, with real inputs and the claims asserted |
+| `test_bubble_sort.py` | the properties, checked — they survive a rewrite |
 
 ---
 
